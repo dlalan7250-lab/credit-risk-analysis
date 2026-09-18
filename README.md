@@ -113,6 +113,6 @@ tests/               data-cleaning checks
 
 ## Contributors
 
-- Nang Anika Chowhin
+- Sanket Prakash
 
-- Padma Brahma
+- Lalan Kumar Das
